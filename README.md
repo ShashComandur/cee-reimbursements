@@ -3,8 +3,8 @@ This repository is intended to house documentation for the reimbursement automat
 Civil and Environmental Engineering Department at UofSC.
 
 ## Author
-Shash Comandur
-comandus@email.sc.edu
+Shash Comandur  
+comandus@email.sc.edu  
 shashcomandur.com
 
 # Current Flow Chart
