@@ -8,4 +8,4 @@ comandus@email.sc.edu
 shashcomandur.com
 
 ## Current Flow Chart
-The current flow chart that describes the process of the flow is shown [cee-reimb-flowchart-v2.pdf](here).
+The current flow chart that describes the process of the flow is shown [here](cee-reimb-flowchart-v2.pdf).
