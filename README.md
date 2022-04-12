@@ -2,7 +2,7 @@
 This repository is intended to house documentation for the reimbursement automation process for the 
 Civil and Environmental Engineering Department at UofSC.
 
-#### Author
+### Author
 Shash Comandur  
 comandus@email.sc.edu  
 shashcomandur.com
