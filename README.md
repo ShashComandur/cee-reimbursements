@@ -7,5 +7,13 @@ Shash Comandur
 comandus@email.sc.edu  
 shashcomandur.com
 
-## Current Flow Chart
-The current flow chart that describes the process of the flow is shown [here](cee-reimb-flowchart-v2.pdf).
+# About
+The automation of the reimbursement process is implemented using Microsoft Power Automate. The current
+flow chart that describes the process of the Power Automate flow can be found [here](cee-reimb-flowchart-v2.pdf). 
+The main flow uses multiple subflows to break up the process. Documentation of the subflows can be found below.
+
+## Subflows
+These are the subflows called in the main flow.
+
+### Peoplesoft Registration Subflow
+To do!
